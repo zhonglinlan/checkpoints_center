@@ -198,6 +198,20 @@ public class HelloWorld extends HttpServlet {
   }
 }
 ```
+configurate its mapping url:  
+```XML
+<web-app>      
+    <servlet>
+        <servlet-name>HelloWorld</servlet-name>
+        <servlet-class>HelloWorld</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>HelloWorld</servlet-name>
+        <url-pattern>/HelloWorld</url-pattern>
+    </servlet-mapping>
+</web-app>  
+```
 
 # Spring Overview  
 ## What is spring?
