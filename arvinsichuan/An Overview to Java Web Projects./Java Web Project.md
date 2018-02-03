@@ -14,7 +14,8 @@ LISCENCE: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ### project/package name conventions
 `org.orgnization.project.module`:`artifact-id`,  
 `com.company.project.module`:`artifact-id`
-### Version
+### Version  
+[Semantic Versioning 2.0.0](https://semver.org/lang/zh-CN/)
 
 ### pom
 ### package Type
