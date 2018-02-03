@@ -1,14 +1,36 @@
 # Java Web Project  
 Written By Arvin(Arvinsichuan@mail.arvinsichuan.com)  
-Review By -  
+Review By ash-morgan(ashmorgan@mail.arvinsichuan.com)  
 LISCENCE: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 # Overview / 总览  
 
-![fish bone](Java Web Project.png)
-
+![fish bone](Java-Web-Project.png)
+(click the diagram to see the full image)
 
 # Build Tool & IDE $^※$
+## Javac
+## MAVEN  
+### project/package name conventions
+`org.orgnization.project.module`:`artifact-id`,  
+`com.company.project.module`:`artifact-id`
+### Version
+
+### pom
+### package Type
+- jar
+- war  
+- pom
+### Commonly used command
+- `clean`
+- `compile`
+- `install`
+- `-Dmaven.test.skip=true` to skip test cases.
+## Gradle  
+## eclipse  
+## IntelliJ Idea
+JetBrains provide free professional version of all products, just use an `.edu` suffix email. You can get it [here](https://www.jetbrains.com/idea/).
+
 
 # Networks
 ## OSI $^※$  
@@ -130,9 +152,13 @@ Simplified the code and the comprehension.
 # MVC Overview  
 ## What is MVC?
 A famous and wide used architecture.  
-Model   
-View  
-Controller  
+- Model
+Mainly responsible for business codes.  
+- View  
+The UI, the closest part to an end user.
+- Controller  
+The operation dispatcher, just like green-red light.
+
 
 ## Why MVC?  
 To simplify development.
