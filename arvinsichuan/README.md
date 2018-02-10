@@ -1,5 +1,9 @@
 # Arvinsichuan's checkpoints log  
 
+## 10, Feb, 18  
+Course 5. Sequece Model  
+    - Week 1. RNN and LSTM (video for about 5 hours and programming around 8 hours)
+
 ## 03, Feb, 18 
 An overview for Java web project.(5 Hours)
 
