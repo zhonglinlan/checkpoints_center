@@ -1,1 +1,3 @@
-arvinsichuan/Markdown A Glimpse/.ipynb_checkpoints/*
+# Ignore checkpoints files
+**/.ipynb_checkpoints/**
+
