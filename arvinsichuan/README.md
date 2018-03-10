@@ -1,5 +1,13 @@
 # Arvinsichuan's checkpoints log  
 
+## 07, Mar, 18
+- Markdown a Glipmse (SNAPSHOT-1.0.0)
+- Proof of work (Part1, SNAPSHOT-1.0.0)
+
+## 10, Feb, 18  
+Course 5. Sequece Model  
+    - Week 1. RNN and LSTM (video for about 5 hours and programming around 8 hours)
+
 ## 03, Feb, 18 
 An overview for Java web project.(5 Hours)
 
