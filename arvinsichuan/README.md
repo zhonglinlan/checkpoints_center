@@ -1,5 +1,8 @@
 # Arvinsichuan's checkpoints log  
 
+## 10, Mar., 18  
+- Update Proof of work adding 1/3 of the second part and the copyrights.
+
 ## 07, Mar, 18
 - Markdown a Glipmse (SNAPSHOT-1.0.0)
 - Proof of work (Part1, SNAPSHOT-1.0.0)
