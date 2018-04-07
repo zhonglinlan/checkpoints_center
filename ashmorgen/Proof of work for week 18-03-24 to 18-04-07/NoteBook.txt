@@ -1,0 +1,7 @@
+this week,i finish the thrid week's code exercise.
+
+In this exe, i found a problem.
+
+The 'plt.scatter()' funcation can't load scatter plot.
+
+It can avoid errors by shielding graphics controls, and does not affect normal computation.
